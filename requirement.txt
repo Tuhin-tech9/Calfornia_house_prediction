@@ -1,0 +1,18 @@
+first of all need house dataset then clean 
+1.import RandomforestRegressor
+2.import train test spilt
+3.import mae,r2score
+4.import pandas 
+5.import joblib for the model save
+Then making api
+1.import fast api
+2.import httpexception
+3.import upload file
+4.import file
+5. import io for the bytes data to dataset
+6.import streamingresponse object file to user
+
+API deployed in frontend
+1.import streamlit
+2.import pandas
+3.import request for backend access
